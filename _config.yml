@@ -3,7 +3,7 @@
 
 title: Chaldal Blog | What's growing inside Chalal
 description: Chaldal blog is for our Engineers to share what we are growing in the company. # this means to ignore newlines until "baseurl:"
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 domain: chaldal.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://chaldal.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 
